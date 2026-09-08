@@ -10,8 +10,8 @@ from linebot.models import MessageEvent, TextMessage, TextSendMessage, FlexSendM
 TDX_CLIENT_ID = "collinwei-efd04955-cfef-447f"
 TDX_CLIENT_SECRET = "527f8c8a-65aa-4c93-9b88-717420f1b3d7"
 
-LINE_CHANNEL_ACCESS_TOKEN = "qfQcKyefdbXmuzGOc0J872lOFCrnc/49YiqcOBCtqVftoQjsAmavJUe8j4Su6SvwlLIAkfFA3Pqz4eZNgSqbg6Ceyhfxulyufa18zt3Dyn3wSPvANQlzRTCkHCac2Mk77tb+U7VNvii97O9y2cLPVwdB04t89/1O/w1cDnyilFU="
-LINE_CHANNEL_SECRET = "AIzaSyA98o8nEjdfhpxhciAByuvmZVA5lGv6G0Q"
+LINE_CHANNEL_ACCESS_TOKEN = "QJblEI7lA4KInn0oT05VUwUJ0w+c/G6r0UiBm8gBClZHnqFG2qaVH6F37rJ3k8+dFO1Y796esb0rpALaJtl9NOdFweyhhapslg1hVAaUe9bxPhaRR2tdMFYICHp/A9nVmzhlYn+bt8XFnIaOeNliuAdB04t89/1O/w1cDnyilFU="
+LINE_CHANNEL_SECRET = "32fff31542292d95fab773380c920d36"
 # ------------------------------------------
 
 app = Flask(__name__)
